@@ -1,1 +1,2 @@
-
+# Allgemeines 
+- Windows Version prüfen:  
