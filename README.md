@@ -1,8 +1,9 @@
 # cybersecurity-wiki
 A collection of my notes, cheatsheets, and resources while learning Cyber Security
 ## Contents
-### Grundlagen
-#### Infornatik Basics
+### 1. Grundlagen
+#### Informatik Basics
+- [Definitionen](definitionen.md)
 - [Alogorithmen](algorithmen.md)
 - [Datenstrukturen](datenstrukturen.md)
 #### Betriebssysteme 
@@ -17,6 +18,10 @@ A collection of my notes, cheatsheets, and resources while learning Cyber Securi
 - [Firewalls](firewalls.md)
 #### Mathematik
 - [modulare Arithmetik](modulare-arithmetik.md)
-- [Hashfunktionen](hashfunktionen.md]
-### Programmierung
-### Tools
+- [Hashfunktionen](hashfunktionen.md)
+### 2. Kernbereiche Cybersecurity
+#### Kryptographie
+- [Verschlüsselung](verschlüsselung.md)
+- [Digitale Signatur](digitale-signatur.md)
+#### Netzwerksicherheit
+- [IDS/IPS](ids-ips.md)
