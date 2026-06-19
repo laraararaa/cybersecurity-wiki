@@ -6,7 +6,7 @@ An **operating system (OS)** is software that manages computer hardware and prov
 
 ### Key Functions
 
-1. ***Hardware Management** - Controls CPU, memory, storage,
+1. **Hardware Management** - Controls CPU, memory, storage,network cards
 
    <details>
 
