@@ -6,14 +6,19 @@ An **operating system (OS)** is software that manages computer hardware and prov
 
 ### Key Functions
 
-1. **Hardware Management** - Controls CPU, memory, storage, [network cards](#network-cards)
+1. ***Hardware Management** - Controls CPU, memory, storage,
+
+   <details>
+
+   <summary>network cards</summary>
+
+   A **Network Interface Card (NIC)** is a hardware component that allows a computer to connect to a network, such as a LAN or the Internet. It can be built into the motherboard or installed separately.
+
+   </details>
 2. **Resource Allocation** - Decides which programs get CPU time, memory, etc.
 3. **Security** - Controls who can access what files and resources
 4. **File Management** - Organizes and stores data
 5. **User Interface** - Allows humans to interact with the computer
-
-## Network cards
-A **network card** (also called a **Network Interface Card (NIC)**) is a hardware component that allows a computer to connect to a network, such as a local network (LAN) or the Internet. It can be built into the motherboard or installed as an expansion card.
 
 ## Why This Matters in Cybersecurity
 
